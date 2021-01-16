@@ -1,2 +1,2 @@
 # Project1
-ini adalah tugas mata kuliah  Rekayasa Perangkat Lunak
+Program Untuk Menghitung Berbasis Kalkulator, ini adalah tugas mata kuliah  Rekayasa Perangkat Lunak
